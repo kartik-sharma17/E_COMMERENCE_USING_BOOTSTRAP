@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.carousel{
+    height: 90vh;
+    width: 100vw;
+    background-color: aqua;
+}
+
+.cards{
+    height: 50vh;
+    width: 100vw;
+    background-color: aquamarine;
+}
+
+
+/* for footer */
+
+footer{
+    height: 40vh;
+    width: 100vw;
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+}
+
+footer h2{
+    font-size: 1.2vw;
+}
+
+footer h3{
+    font-size: 1vw;
+}
+
+footer a{
+    text-decoration: none;
+    color: #808080;
+}
