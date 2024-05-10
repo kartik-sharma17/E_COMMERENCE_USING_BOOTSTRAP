@@ -1,2 +1,2 @@
 # E_COMMERENCE_USING_BOOTSTRAP
-This is m first bootstrap proect
+This is my first bootstrap project
